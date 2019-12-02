@@ -39,3 +39,12 @@ El repositorio en cuestión contiene todos los documentos referentes al taller d
 # Contacto
 >[Tatuajes Inteligentes] Dr. Roberto Ramirez: roberto.ramirez@icat.unam.mx <br/>
 >[Tatuajes Inteligentes] Manuel Herrera: herrera.juarez.manuel@outlook.com <br/>
+<br/><br/><br/>
+<p float="center">
+  <div class="frame" style="height: 25px;">
+    <img align="center" src="/cdmx.png" height="85" hspace="15"/>  
+  </div>
+  <div class="frame" style="height: 25px;">
+    <img align="center" src="/iiunam.png" height="70" hspace="15"/>  
+  </div>
+</p>

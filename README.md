@@ -31,7 +31,11 @@ El repositorio en cuestión contiene todos los documentos referentes al taller d
      * **[Instrucciones.pdf]** Instrucciones.
      
      
-# Contacto
+# Páginas Web
 >[Instituto de Ingeniería] http://www.iingen.unam.mx<br/>
 >[Facebook Microfascinantes] https://www.facebook.com/Microfascinantes/<br/>
 >[Secretaria de Educación, Ciencia, Tecnología e Innovación] https://www.sectei.cdmx.gob.mx/<br/>
+
+# Contacto
+>[Tatuajes Inteligentes] Dr. Roberto Ramirez: roberto.ramirez@icat.unam.mx <br/>
+>[Tatuajes Inteligentes] Manuel Herrera: herrera.juarez.manuel@outlook.com <br/>

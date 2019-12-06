@@ -1,0 +1,900 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(cmpsf2.o)
+                              build/default/production/main.o (__ltsf2)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(divsf3.o)
+                              build/default/production/main.o (__divsf3)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(divsf3x.o)
+                              /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(divsf3.o) (__divsf3x)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fixsfsi.o)
+                              build/default/production/CapacitiveSensor.o (__fixsfsi)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fixunssfsi.o)
+                              build/default/production/main.o (__fixunssfsi)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(floatsisf.o)
+                              build/default/production/main.o (__floatunsisf)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_cmp.o)
+                              /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(cmpsf2.o) (__fp_cmp)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_inf.o)
+                              /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(divsf3x.o) (__fp_inf)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_nan.o)
+                              /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(divsf3x.o) (__fp_nan)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_pscA.o)
+                              /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(divsf3x.o) (__fp_pscA)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_pscB.o)
+                              /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(divsf3x.o) (__fp_pscB)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_round.o)
+                              /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(divsf3.o) (__fp_round)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_split3.o)
+                              /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(divsf3x.o) (__fp_split3)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_zero.o)
+                              /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fixunssfsi.o) (__fp_zero)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(gesf2.o)
+                              build/default/production/main.o (__gtsf2)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(mulsf3.o)
+                              build/default/production/main.o (__mulsf3)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(mulsf3x.o)
+                              /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(mulsf3.o) (__mulsf3x)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_divmodhi4.o)
+                              build/default/production/main.o (__divmodhi4)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_exit.o)
+                              /opt/microchip/mplabx/v5.20/packs/Microchip/ATtiny_DFP/2.0.10/gcc/dev/attiny1614/avrxmega3/crtattiny1614.o (exit)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_copy_data.o)
+                              build/default/production/Millis.o (__do_clear_bss)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_umulhisi3.o)
+                              build/default/production/main.o (__umulhisi3)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_udivmodhi4.o)
+                              /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_divmodhi4.o) (__udivmodhi4)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(calloc.o)
+                              build/default/production/CapacitiveSensor.o (calloc)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(malloc.o)
+                              build/default/production/TouchSlider.o (malloc)
+/opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(memset.o)
+                              /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(calloc.o) (memset)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(malloc.o)
+__flp               0x2               /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(malloc.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 /opt/microchip/mplabx/v5.20/packs/Microchip/ATtiny_DFP/2.0.10/gcc/dev/attiny1614/avrxmega3/crtattiny1614.o
+ .bss           0x00000000        0x0 /opt/microchip/mplabx/v5.20/packs/Microchip/ATtiny_DFP/2.0.10/gcc/dev/attiny1614/avrxmega3/crtattiny1614.o
+ .text          0x00000000        0x0 build/default/production/main.o
+ .data          0x00000000        0x0 build/default/production/main.o
+ .bss           0x00000000        0x0 build/default/production/main.o
+ .text.updateBrigth
+                0x00000000        0xa build/default/production/main.o
+ .text          0x00000000        0x0 build/default/production/CapacitiveSensor.o
+ .data          0x00000000        0x0 build/default/production/CapacitiveSensor.o
+ .bss           0x00000000        0x0 build/default/production/CapacitiveSensor.o
+ .text.resetTSAutoCal
+                0x00000000       0x14 build/default/production/CapacitiveSensor.o
+ .text.setTSAutoCalMillis
+                0x00000000        0xc build/default/production/CapacitiveSensor.o
+ .text.setTSTimeoutMillis
+                0x00000000       0x78 build/default/production/CapacitiveSensor.o
+ .text.touchSensorRaw
+                0x00000000       0x62 build/default/production/CapacitiveSensor.o
+ .text          0x00000000        0x0 build/default/production/Millis.o
+ .data          0x00000000        0x0 build/default/production/Millis.o
+ .bss           0x00000000        0x0 build/default/production/Millis.o
+ .text          0x00000000        0x0 build/default/production/TouchSlider.o
+ .data          0x00000000        0x0 build/default/production/TouchSlider.o
+ .bss           0x00000000        0x0 build/default/production/TouchSlider.o
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(divsf3.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(divsf3.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(divsf3.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(divsf3x.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(divsf3x.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fixsfsi.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(floatsisf.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(floatsisf.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_inf.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_inf.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_nan.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_nan.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_round.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_round.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_round.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_split3.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_split3.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_zero.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_zero.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(gesf2.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(gesf2.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(gesf2.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(mulsf3.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(mulsf3.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_exit.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_exit.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(calloc.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(calloc.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(calloc.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(malloc.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(malloc.o)
+ .text          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(memset.o)
+ .data          0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(memset.o)
+ .bss           0x00000000        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(memset.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00004000         xr
+data             0x00803800         0x00000800         rw !x
+eeprom           0x00810000         0x00000100         rw !x
+fuse             0x00820000         0x00000009         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x803800
+                0x00008000                __RODATA_PM_OFFSET__ = 0x8000
+LOAD /opt/microchip/mplabx/v5.20/packs/Microchip/ATtiny_DFP/2.0.10/gcc/dev/attiny1614/avrxmega3/crtattiny1614.o
+                0x00000001                __MPLAB_BUILD = 0x1
+LOAD build/default/production/main.o
+LOAD build/default/production/CapacitiveSensor.o
+LOAD build/default/production/Millis.o
+LOAD build/default/production/TouchSlider.o
+START GROUP
+LOAD /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a
+END GROUP
+START GROUP
+LOAD /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a
+LOAD /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a
+LOAD /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a
+LOAD /opt/microchip/mplabx/v5.20/packs/Microchip/ATtiny_DFP/2.0.10/gcc/dev/attiny1614/avrxmega3/libattiny1614.a
+END GROUP
+                [0x00000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00803800]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x802000
+                [0x00004000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000100]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000009]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+                0x00008000                __RODATA_PM_OFFSET__ = DEFINED (__RODATA_PM_OFFSET__)?__RODATA_PM_OFFSET__:0x8000
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000       0xe2
+ *(.vectors)
+ .vectors       0x00000000       0x7c /opt/microchip/mplabx/v5.20/packs/Microchip/ATtiny_DFP/2.0.10/gcc/dev/attiny1614/avrxmega3/crtattiny1614.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.dinit)
+ .dinit         0x0000007c       0x11 data_init
+                0x0000008e                . = ALIGN (0x2)
+ *fill*         0x0000008d        0x1 
+                0x0000008e                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000008e        0x0 linker stubs
+ *(.trampolines*)
+                0x0000008e                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+                0x0000008e                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000008e                __ctors_start = .
+ *(.ctors)
+                0x0000008e                __ctors_end = .
+                0x0000008e                __dtors_start = .
+ *(.dtors)
+                0x0000008e                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000008e        0x0 /opt/microchip/mplabx/v5.20/packs/Microchip/ATtiny_DFP/2.0.10/gcc/dev/attiny1614/avrxmega3/crtattiny1614.o
+                0x0000008e                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000008e        0xc /opt/microchip/mplabx/v5.20/packs/Microchip/ATtiny_DFP/2.0.10/gcc/dev/attiny1614/avrxmega3/crtattiny1614.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000009a       0x3c /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_copy_data.o)
+                0x0000009a                __do_copy_data
+                0x000000c8                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000d6        0x8 /opt/microchip/mplabx/v5.20/packs/Microchip/ATtiny_DFP/2.0.10/gcc/dev/attiny1614/avrxmega3/crtattiny1614.o
+ *(.init9)
+                0x000000de                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000000de        0x0 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_exit.o)
+                0x000000de                exit
+                0x000000de                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000000de        0x4 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_exit.o)
+ *(.fini0)
+                0x000000e2                _etext = .
+
+.rodata
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+
+.data           0x00803800        0x0 load address 0x000000e2
+                [!provide]                PROVIDE (__data_start, .)
+ *(.gnu.linkonce.d*)
+                0x00803800                . = ALIGN (0x2)
+                0x00803800                _edata = .
+                [!provide]                PROVIDE (__data_end, .)
+
+.bss            0x00803800        0x4
+                [!provide]                PROVIDE (__bss_start, .)
+ *(COMMON)
+ COMMON         0x00803800        0x4 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(malloc.o)
+                0x00803800                __brkval
+                0x00803802                __flp
+                [!provide]                PROVIDE (__bss_end, .)
+                0x000000e2                __data_load_start = LOADADDR (.data)
+                0x000000e2                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00803804        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00803804                _end = .
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x5b
+ *(.comment)
+ .comment       0x00000000       0x2f build/default/production/main.o
+                                 0x30 (size before relaxing)
+ .comment       0x0000002f       0x30 build/default/production/CapacitiveSensor.o
+ .comment       0x0000002f       0x30 build/default/production/Millis.o
+ .comment       0x0000002f       0x30 build/default/production/TouchSlider.o
+ .comment       0x0000002f       0x2c /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(calloc.o)
+                                 0x2d (size before relaxing)
+ .comment       0x0000005b       0x2d /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(malloc.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x108
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x48 build/default/production/main.o
+ .debug_aranges
+                0x00000048       0x50 build/default/production/CapacitiveSensor.o
+ .debug_aranges
+                0x00000098       0x30 build/default/production/Millis.o
+ .debug_aranges
+                0x000000c8       0x40 build/default/production/TouchSlider.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x48a7
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x1897 /opt/microchip/mplabx/v5.20/packs/Microchip/ATtiny_DFP/2.0.10/gcc/dev/attiny1614/avrxmega3/crtattiny1614.o
+ .debug_info    0x00001897      0xe9c build/default/production/main.o
+ .debug_info    0x00002733      0x9bd build/default/production/CapacitiveSensor.o
+ .debug_info    0x000030f0      0xc93 build/default/production/Millis.o
+ .debug_info    0x00003d83      0xb24 build/default/production/TouchSlider.o
+
+.debug_abbrev   0x00000000     0x1fa7
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000     0x1744 /opt/microchip/mplabx/v5.20/packs/Microchip/ATtiny_DFP/2.0.10/gcc/dev/attiny1614/avrxmega3/crtattiny1614.o
+ .debug_abbrev  0x00001744      0x2f7 build/default/production/main.o
+ .debug_abbrev  0x00001a3b      0x210 build/default/production/CapacitiveSensor.o
+ .debug_abbrev  0x00001c4b      0x11b build/default/production/Millis.o
+ .debug_abbrev  0x00001d66      0x241 build/default/production/TouchSlider.o
+
+.debug_line     0x00000000      0xdd6
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x151 /opt/microchip/mplabx/v5.20/packs/Microchip/ATtiny_DFP/2.0.10/gcc/dev/attiny1614/avrxmega3/crtattiny1614.o
+ .debug_line    0x00000151      0x383 build/default/production/main.o
+ .debug_line    0x000004d4      0x3e1 build/default/production/CapacitiveSensor.o
+ .debug_line    0x000008b5      0x149 build/default/production/Millis.o
+ .debug_line    0x000009fe      0x3d8 build/default/production/TouchSlider.o
+
+.debug_frame    0x00000000      0x3a4
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xf0 build/default/production/main.o
+ .debug_frame   0x000000f0      0x114 build/default/production/CapacitiveSensor.o
+ .debug_frame   0x00000204       0x6c build/default/production/Millis.o
+ .debug_frame   0x00000270      0x134 build/default/production/TouchSlider.o
+
+.debug_str      0x00000000      0xd14
+ *(.debug_str)
+ .debug_str     0x00000000      0xa49 /opt/microchip/mplabx/v5.20/packs/Microchip/ATtiny_DFP/2.0.10/gcc/dev/attiny1614/avrxmega3/crtattiny1614.o
+ .debug_str     0x00000a49       0x85 build/default/production/main.o
+ .debug_str     0x00000ace       0x14 build/default/production/CapacitiveSensor.o
+ .debug_str     0x00000ae2      0x1e9 build/default/production/Millis.o
+ .debug_str     0x00000ccb       0x49 build/default/production/TouchSlider.o
+
+.debug_loc      0x00000000      0xcfa
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x55f build/default/production/main.o
+ .debug_loc     0x0000055f      0x356 build/default/production/CapacitiveSensor.o
+ .debug_loc     0x000008b5       0x2a build/default/production/Millis.o
+ .debug_loc     0x000008df      0x41b build/default/production/TouchSlider.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x130
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x50 build/default/production/main.o
+ .debug_ranges  0x00000050       0x40 build/default/production/CapacitiveSensor.o
+ .debug_ranges  0x00000090       0x20 build/default/production/Millis.o
+ .debug_ranges  0x000000b0       0x80 build/default/production/TouchSlider.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/default/production/Tatuaje_Pulsera.X.production.elf elf32-avr)
+LOAD linker stubs
+LOAD data_init
+
+.text           0x0000130e        0x4
+ .text          0x0000130e        0x4 /opt/microchip/mplabx/v5.20/packs/Microchip/ATtiny_DFP/2.0.10/gcc/dev/attiny1614/avrxmega3/crtattiny1614.o
+                0x0000130e                __vector_22
+                0x0000130e                __vector_28
+                0x0000130e                __vector_1
+                0x0000130e                __vector_24
+                0x0000130e                __vector_12
+                0x0000130e                __bad_interrupt
+                0x0000130e                __vector_6
+                0x0000130e                __vector_3
+                0x0000130e                __vector_23
+                0x0000130e                __vector_30
+                0x0000130e                __vector_25
+                0x0000130e                __vector_11
+                0x0000130e                __vector_13
+                0x0000130e                __vector_17
+                0x0000130e                __vector_19
+                0x0000130e                __vector_7
+                0x0000130e                __vector_27
+                0x0000130e                __vector_5
+                0x0000130e                __vector_4
+                0x0000130e                __vector_9
+                0x0000130e                __vector_2
+                0x0000130e                __vector_21
+                0x0000130e                __vector_15
+                0x0000130e                __vector_29
+                0x0000130e                __vector_26
+                0x0000130e                __vector_14
+                0x0000130e                __vector_10
+                0x0000130e                __vector_16
+                0x0000130e                __vector_18
+                0x0000130e                __vector_20
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 /opt/microchip/mplabx/v5.20/packs/Microchip/ATtiny_DFP/2.0.10/gcc/dev/attiny1614/avrxmega3/crtattiny1614.o
+
+.text.initCPU_ATtiny1614
+                0x0000127a       0x10
+ .text.initCPU_ATtiny1614
+                0x0000127a       0x10 build/default/production/main.o
+                0x0000127a                initCPU_ATtiny1614
+
+.text.initTimerPWMLED
+                0x0000117a       0x2e
+ .text.initTimerPWMLED
+                0x0000117a       0x2e build/default/production/main.o
+                0x0000117a                initTimerPWMLED
+
+.text.sendIRBrightness
+                0x000000e2      0x296
+ .text.sendIRBrightness
+                0x000000e2      0x296 build/default/production/main.o
+                0x000000e2                sendIRBrightness
+
+.text.sliderEvent_Int
+                0x000011a8       0x2c
+ .text.sliderEvent_Int
+                0x000011a8       0x2c build/default/production/main.o
+                0x000011a8                sliderEvent_Int
+
+.text.main      0x00000f64       0x64
+ .text.main     0x00000f64       0x64 build/default/production/main.o
+                0x00000f64                main
+
+.text.newTouchSensor
+                0x00000af4       0xfa
+ .text.newTouchSensor
+                0x00000af4       0xfa build/default/production/CapacitiveSensor.o
+                0x00000af4                newTouchSensor
+
+.text.senseOneCycle
+                0x000005ba      0x1b4
+ .text.senseOneCycle
+                0x000005ba      0x1b4 build/default/production/CapacitiveSensor.o
+                0x000005ba                senseOneCycle
+
+.text.touchSensor
+                0x000008ac      0x12c
+ .text.touchSensor
+                0x000008ac      0x12c build/default/production/CapacitiveSensor.o
+                0x000008ac                touchSensor
+
+.text.initMillis
+                0x00001146       0x34
+ .text.initMillis
+                0x00001146       0x34 build/default/production/Millis.o
+                0x00001146                initMillis
+
+.text.__vector_8
+                0x00001026       0x5c
+ .text.__vector_8
+                0x00001026       0x5c build/default/production/Millis.o
+                0x00001026                __vector_8
+
+.text.millis    0x00001264       0x16
+ .text.millis   0x00001264       0x16 build/default/production/Millis.o
+                0x00001264                millis
+
+.bss.msTimer    0x0080380a        0x4
+ .bss.msTimer   0x0080380a        0x4 build/default/production/Millis.o
+
+.text.attachSliderEvent
+                0x000012f0        0x8
+ .text.attachSliderEvent
+                0x000012f0        0x8 build/default/production/TouchSlider.o
+                0x000012f0                attachSliderEvent
+
+.text.calibrateSlider
+                0x00000d9c       0xb4
+ .text.calibrateSlider
+                0x00000d9c       0xb4 build/default/production/TouchSlider.o
+                0x00000d9c                calibrateSlider
+
+.text.newTouchSlider
+                0x000009d8      0x11c
+ .text.newTouchSlider
+                0x000009d8      0x11c build/default/production/TouchSlider.o
+                0x000009d8                newTouchSlider
+
+.text.readSliderTouchInputs
+                0x00000e50       0x9a
+ .text.readSliderTouchInputs
+                0x00000e50       0x9a build/default/production/TouchSlider.o
+                0x00000e50                readSliderTouchInputs
+
+.text.checkSliderForEvent
+                0x0000076e      0x13e
+ .text.checkSliderForEvent
+                0x0000076e      0x13e build/default/production/TouchSlider.o
+                0x0000076e                checkSliderForEvent
+
+.text.avrlibc.fplib
+                0x000012dc        0xa
+ .text.avrlibc.fplib
+                0x000012dc        0xa /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(cmpsf2.o)
+                0x000012dc                __lesf2
+                0x000012dc                __nesf2
+                0x000012dc                __eqsf2
+                0x000012dc                __cmpsf2
+                0x000012dc                __ltsf2
+
+.text.avrlibc.fplib
+                0x000012f8        0x8
+ .text.avrlibc.fplib
+                0x000012f8        0x8 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(divsf3.o)
+                0x000012f8                __divsf3
+
+.text.avrlibc.fplib
+                0x00000bee       0xdc
+ .text.avrlibc.fplib
+                0x00000bee       0xdc /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(divsf3x.o)
+                0x00000c0e                __divsf3x
+                0x00000c14                __divsf3_pse
+
+.text.avrlibc.fplib
+                0x0000128a        0xe
+ .text.avrlibc.fplib
+                0x0000128a        0xe /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fixsfsi.o)
+                0x0000128a                __fixsfsi
+
+.text.avrlibc.fplib
+                0x00000fc8       0x5e
+ .text.avrlibc.fplib
+                0x00000fc8       0x5e /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fixunssfsi.o)
+                0x00000fc8                __fixunssfsi
+
+.text.avrlibc.fplib
+                0x00000eea       0x7a
+ .text.avrlibc.fplib
+                0x00000eea       0x7a /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(floatsisf.o)
+                0x00000eea                __floatunsisf
+                0x00000eee                __floatsisf
+
+.text.avrlibc.fplib
+                0x00001082       0x48
+ .text.avrlibc.fplib
+                0x00001082       0x48 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_cmp.o)
+                0x00001082                __fp_cmp
+
+.text.avrlibc.fplib
+                0x000012d0        0xc
+ .text.avrlibc.fplib
+                0x000012d0        0xc /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_inf.o)
+                0x000012d0                __fp_inf
+
+.text.avrlibc.fplib
+                0x00001308        0x6
+ .text.avrlibc.fplib
+                0x00001308        0x6 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_nan.o)
+                0x00001308                __fp_nan
+
+.text.avrlibc.fplib
+                0x00001298        0xe
+ .text.avrlibc.fplib
+                0x00001298        0xe /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_pscA.o)
+                0x00001298                __fp_pscA
+
+.text.avrlibc.fplib
+                0x000012a6        0xe
+ .text.avrlibc.fplib
+                0x000012a6        0xe /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_pscB.o)
+                0x000012a6                __fp_pscB
+
+.text.avrlibc.fplib
+                0x00001224       0x22
+ .text.avrlibc.fplib
+                0x00001224       0x22 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_round.o)
+                0x00001224                __fp_round
+
+.text.avrlibc.fplib
+                0x000010ca       0x44
+ .text.avrlibc.fplib
+                0x000010ca       0x44 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_split3.o)
+                0x000010ca                __fp_split3
+                0x000010da                __fp_splitA
+
+.text.avrlibc.fplib
+                0x000012b4        0xe
+ .text.avrlibc.fplib
+                0x000012b4        0xe /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(fp_zero.o)
+                0x000012b4                __fp_zero
+                0x000012b6                __fp_szero
+
+.text.avrlibc.fplib
+                0x000012e6        0xa
+ .text.avrlibc.fplib
+                0x000012e6        0xa /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(gesf2.o)
+                0x000012e6                __gtsf2
+                0x000012e6                __gesf2
+
+.text.avrlibc.fplib
+                0x00001300        0x8
+ .text.avrlibc.fplib
+                0x00001300        0x8 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(mulsf3.o)
+                0x00001300                __mulsf3
+
+.text.avrlibc.fplib
+                0x00000cca       0xd2
+ .text.avrlibc.fplib
+                0x00000cca       0xd2 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libm.a(mulsf3x.o)
+                0x00000ce8                __mulsf3x
+                0x00000cee                __mulsf3_pse
+
+.text.libgcc.div
+                0x000011d4       0x28
+ .text.libgcc.div
+                0x000011d4       0x28 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_divmodhi4.o)
+                0x000011d4                __divmodhi4
+                0x000011d4                _div
+
+.text.libgcc.mul
+                0x00001246       0x1e
+ .text.libgcc.mul
+                0x00001246       0x1e /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_umulhisi3.o)
+                0x00001246                __umulhisi3
+
+.text.libgcc.div
+                0x000011fc       0x28
+ .text.libgcc.div
+                0x000011fc       0x28 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_udivmodhi4.o)
+                0x000011fc                __udivmodhi4
+
+.text.avrlibc   0x0000110e       0x38
+ .text.avrlibc  0x0000110e       0x38 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(calloc.o)
+                0x0000110e                calloc
+
+.data           0x00803804        0x6 load address 0x00001312
+ .data          0x00803804        0x6 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(malloc.o)
+                0x00803804                __malloc_heap_end
+                0x00803806                __malloc_heap_start
+                0x00803808                __malloc_margin
+
+.text.avrlibc   0x00000378      0x242
+ .text.avrlibc  0x00000378      0x242 /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(malloc.o)
+                0x00000378                malloc
+                0x000004a8                free
+
+.text.avrlibc   0x000012c2        0xe
+ .text.avrlibc  0x000012c2        0xe /opt/microchip/xc8/v2.05/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/libc.a(memset.o)
+                0x000012c2                memset

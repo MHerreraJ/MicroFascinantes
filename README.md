@@ -1,5 +1,4 @@
 <meta name="google-site-verification" content="56YGGNdEkGo94rvDZRkzSX_00WQJ7aJo11EX2UVtsUU" />
-
 # MicroFascinantes
 ![uF Logo](/uF.png)
 Proyecto de la Secretaria de Educación, Ciencia, Tecnología e Innovación (SECTEI) del Gobierno de la CDMX y el Instituto de Ingeniería de la UNAM para acercar a jóvenes y niños a las microtecnologías.
